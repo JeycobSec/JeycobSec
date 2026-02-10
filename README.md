@@ -60,7 +60,9 @@ nmap · wireshark · tcpdump · splunk · bash · powershell · git · kvm · bu
 
 ## 📊 Activity
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JeycobSec&show_icons=true&theme=transparent&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeycobSec&layout=compact&theme=transparent&hide_border=true"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JeycobSec&show_icons=true&theme=transparent&hide_border=true"></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeycobSec&layout=compact&theme=transparent&hide_border=true"></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/JeycobSec/JeycobSec/output/github-contribution-grid-snake-dark.svg?raw=true"></p>
 
