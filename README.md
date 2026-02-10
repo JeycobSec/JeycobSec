@@ -1,106 +1,77 @@
 <p align="center"><img src="gingif.gif" width="100%"></p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=8fbf8f&height=6&section=header"/></p>
-
-<h1 align="center">JeycobSec</h1>
-<p align="center"><i>linux • infrastructure • enterprise identity • security engineering</i></p>
-
----
-
 ```bash
-jeycob@tumbleweed:~$ whoami
+┌──(jeycobsec㉿tumbleweed)-[~/lab]
+└─$ whoami
 systems & cybersecurity engineer
 
-jeycob@tumbleweed:~$ focus
-linux  identity-infrastructure  hardening  detection  networking  c++
+└─$ hostname
+x1-carbon
+
+└─$ focus
+linux  infrastructure  detection  hardening  networking  c++
 ```
+
+<h1 align="center">JeycobSec</h1>
+<p align="center">Linux • Infrastructure • Systems Security • Offensive & Defensive Engineering</p>
 
 ---
 
 ## 🌿 About
 
-Calm systems builder focused on reliability, resilience, and secure design.
-
-I design enterprise-style labs and infrastructures, study behavior, test limits, and refine systems until they are quiet, stable, and hardened.
-
-
-Linux-first. Infrastructure-minded. Security by default.
+Linux-first engineer focused on building, observing, and hardening real systems.
+Homelabs, enterprise-style infrastructure, and security by design.
 
 ---
 
-## 🍃 Environment
+## 🛠️ Lab
 
-- openSUSE Tumbleweed (daily driver)
-- KVM / QEMU virtualization
-- Windows Server 2022 Identity & Domain Services
-- Windows 11 Enterprise clients
-- Group Policy security baselines
-- Segmentation • monitoring • logging • automation
-
----
-
-## 🧩 Architecture
-
-```
-                [ openSUSE Host ]
-                        │
-        ┌───────────────┼────────────────┐
-        │               │                │
- [ Domain Services ] [ Client Systems ] [ Security/Testing VM ]
-        │
- [ Users • Groups • Policies • Controls ]
-```
+- openSUSE Tumbleweed
+- KVM / QEMU
+- Windows Server domain services
+- Windows 11 enterprise clients
+- Policy enforcement & hardening
+- Network monitoring & logging
 
 ---
 
-## 🌱 Projects
+## 🚀 Projects
 
-### Identity Infrastructure Homelab
-Enterprise-style domain environment with structured policies, restrictions, automation, and security controls.
-
-### C++ Port Scanner
-High-performance multithreaded TCP scanner built with sockets for efficient network enumeration.
-
-### Linux Infrastructure Labs
-Virtual machines, networking experiments, scripting, and system hardening.
+**Directory Services Homelab** – enterprise domain, structure, policies, controls
+**C++ Port Scanner** – multithreaded TCP enumeration tool
+**Linux Infrastructure Labs** – automation & system hardening
 
 ---
 
-## 🧰 Toolbelt
+## ⚙️ Stack
 
-```text
-nmap   wireshark   tcpdump   bash   powershell   git   kvm   splunk   burpsuite
+```bash
+nmap · wireshark · tcpdump · splunk · bash · powershell · git · kvm · burpsuite
 ```
 
 ---
 
 ## 🏆 Certifications
 
-![Security+](https://img.shields.io/badge/Security%2B-1abc9c?style=for-the-badge&labelColor=5f8f5f)
-![Network+](https://img.shields.io/badge/Network%2B-3498db?style=for-the-badge&labelColor=5f8f5f)
-![AZ-900](https://img.shields.io/badge/AZ--900-0078D4?style=for-the-badge&labelColor=5f8f5f)
-![Splunk](https://img.shields.io/badge/Splunk-Core-ff7300?style=for-the-badge&labelColor=5f8f5f)
+![Security+](https://img.shields.io/badge/Security%2B-1abc9c?style=for-the-badge)
+![Network+](https://img.shields.io/badge/Network%2B-3498db?style=for-the-badge)
+![AZ-900](https://img.shields.io/badge/AZ--900-0078D4?style=for-the-badge)
+![Splunk Core](https://img.shields.io/badge/Splunk-Core-ff7300?style=for-the-badge)
 
 ---
 
 ## 📊 Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=JeycobSec&show_icons=true&hide_border=true&theme=default)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeycobSec&layout=compact&hide_border=true&theme=default)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JeycobSec&show_icons=true&theme=transparent&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeycobSec&layout=compact&theme=transparent&hide_border=true"></p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/JeycobSec/JeycobSec/output/github-contribution-grid-snake-dark.svg"></p>
 
 ---
 
 ## 🌐 Connect
 
-<p align="center"><a href="https://www.linkedin.com/in/jeycobc/">LinkedIn</a></p>
+[LinkedIn](https://www.linkedin.com/in/jeycobc/)
 
 ---
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=8fbf8f&height=6&section=footer"/></p>
-
-<p align="center"><i>🍃 stay curious • observe quietly • improve constantly</i></p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JeycobSec/JeycobSec/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<p align="center"><i>quiet systems • clean logs • steady signal</i></p>
