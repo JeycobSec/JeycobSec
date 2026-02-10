@@ -76,10 +76,10 @@ nmap   wireshark   tcpdump   bash   powershell   git   kvm   splunk   burpsuite
 
 ## 🏆 Certifications
 
-![Security+](https://img.shields.io/badge/Security%2B-6aa84f?style=for-the-badge&labelColor=5f8f5f)
-![Network+](https://img.shields.io/badge/Network%2B-7fb77e?style=for-the-badge&labelColor=5f8f5f)
-![AZ-900](https://img.shields.io/badge/AZ--900-93c47d?style=for-the-badge&labelColor=5f8f5f)
-![Splunk](https://img.shields.io/badge/Splunk-Core-a8d5a2?style=for-the-badge&labelColor=5f8f5f)
+![Security+](https://img.shields.io/badge/Security%2B-1abc9c?style=for-the-badge&labelColor=5f8f5f)
+![Network+](https://img.shields.io/badge/Network%2B-3498db?style=for-the-badge&labelColor=5f8f5f)
+![AZ-900](https://img.shields.io/badge/AZ--900-0078D4?style=for-the-badge&labelColor=5f8f5f)
+![Splunk](https://img.shields.io/badge/Splunk-Core-ff7300?style=for-the-badge&labelColor=5f8f5f)
 
 ---
 
@@ -88,7 +88,7 @@ nmap   wireshark   tcpdump   bash   powershell   git   kvm   splunk   burpsuite
 ![Stats](https://github-readme-stats.vercel.app/api?username=JeycobSec&show_icons=true&hide_border=true&theme=default)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeycobSec&layout=compact&hide_border=true&theme=default)
 
-![snake gif](https://github.com/JeycobSec/JeycobSec/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/JeycobSec/JeycobSec/output/github-contribution-grid-snake.svg)
 
 ---
 
