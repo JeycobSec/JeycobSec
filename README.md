@@ -88,7 +88,7 @@ nmap   wireshark   tcpdump   bash   powershell   git   kvm   splunk   burpsuite
 ![Stats](https://github-readme-stats.vercel.app/api?username=JeycobSec&show_icons=true&hide_border=true&theme=default)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeycobSec&layout=compact&hide_border=true&theme=default)
 
-![snake gif](https://raw.githubusercontent.com/JeycobSec/JeycobSec/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/JeycobSec/JeycobSec/output/github-contribution-grid-snake-dark.svg
 
 ---
 
