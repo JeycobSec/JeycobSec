@@ -1,73 +1,64 @@
-<p align="center"><img src="gingif.gif" width="100%"></p>
-
 ```bash
-┌──(jeycob㉿tumbleweed)-[~/lab]
+┌──(jeycob㉿fedora)-[~/lab]
 └─$ whoami
 systems_engineer
-
-└─$ hostname
-jeycob
-
-└─$ focus
-linux_infra detection hardening networking c++
-```
-
-<h1 align="center">JeycobSec</h1>
-<p align="center">Linux • Infrastructure • Systems Security • Offensive & Defensive Engineering</p>
-
----
-
-## 🌿 About
-
-Linux-first engineer. Build. Harden. Observe. Improve.
-
----
-
-## 🛠️ Lab
-
-- openSUSE Tumbleweed
-- KVM / QEMU virtualization
-- Windows Server domain services
-- Windows 11 enterprise clients
-- Policy enforcement & monitoring
-
----
-
-## 🚀 Projects
-
-**Directory Services Homelab** – enterprise domain architecture & security controls
-**C++ Port Scanner** – multithreaded TCP enumeration
-**Linux Infrastructure Labs** – automation & system hardening
-
----
-
-## ⚙️ Stack
-
-```bash
-nmap · wireshark · tcpdump · splunk · bash · powershell · git · kvm · burpsuite
 ```
 
 ---
 
-## 🏆 Certifications
+# JeycobSec
+`LINUX · INFRASTRUCTURE · SYSTEMS SECURITY`
 
-![Security+](https://img.shields.io/badge/Security%2B-1abc9c?style=for-the-badge)
-![Network+](https://img.shields.io/badge/Network%2B-3498db?style=for-the-badge)
-![AZ-900](https://img.shields.io/badge/AZ-900-0078D4?style=for-the-badge)
-![Splunk Core](https://img.shields.io/badge/Splunk-Core-ff7300?style=for-the-badge)
+![Security+](https://img.shields.io/badge/Security+-FF0000?style=flat-square&logo=comptia&logoColor=white)
+![Network+](https://img.shields.io/badge/Network+-007ACC?style=flat-square&logo=comptia&logoColor=white)
+![AZ-900](https://img.shields.io/badge/AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk_Core-000000?style=flat-square&logo=splunk&logoColor=white)
 
 ---
 
-## 📊 Activity
+### `$ cat about.txt`
+Infrastructure engineer focused on Linux systems, enterprise Active Directory environments,
+and defensive security. Build real labs. Break things on purpose. Document everything.
+
+---
+
+### `$ ls ~/lab`
+
+| host     | Fedora 43 · KVM/QEMU · virt-manager                  |
+|----------|-------------------------------------------------------|
+| dc01     | Windows Server 2022 · AD DS · DNS · GPO               |
+| client01 | Windows 10 Enterprise · domain joined                 |
+| planned  | Kali · RHEL 9 · Wazuh SIEM · pfSense + Suricata       |
+
+---
+
+### `$ git log --oneline ~/projects`
+
+\```
+feat: windows-ad-homelab     — enterprise domain architecture & security controls
+wip:  c-port-scanner         — multithreaded TCP enumeration in C++
+docs: linux-infra-labs       — automation & system hardening notes
+\```
+
+---
+
+### `$ env | grep STACK`
+`nmap` `wireshark` `tcpdump` `splunk` `bash` `powershell` `kvm` `burpsuite` `git` `python3` `tmux`
+
+---
+
+### `$ curl -s socials.json`
+\```json
+{
+  "linkedin": "linkedin.com/in/jeycobc",
+  "github":   "github.com/JeycobSec"
+}
+\```
+
+---
 
 <p align="center"><img src="https://raw.githubusercontent.com/JeycobSec/JeycobSec/output/github-contribution-grid-snake-dark.svg"></p>
 
 ---
 
-## 🌐 Connect
-
-[LinkedIn](https://www.linkedin.com/in/jeycobc/)
-
----
-
-<p align="center"><i>quiet systems • clean logs • steady signal</i></p>
+<p align="center"><sub>quiet systems · clean logs · steady signal</sub></p>
