@@ -1,56 +1,47 @@
 <div align="center">
-<img src="assets/banner.svg" width="100%">
+
+\`\`\`
+ ~/lab
+ ─────────────────────────────────────
+  jeycob
+  systems · infrastructure · blue team
+ ─────────────────────────────────────
+\`\`\`
+
 </div>
 
-&nbsp;
+<!-- the observer. always watching. -->
 
-> Infrastructure engineer building real enterprise environments on Linux.
-> Focused on system reliability, security hardening, and detection.
+<br>
 
-&nbsp;
+infrastructure engineer building real enterprise environments on Linux.  
+focused on system reliability, security hardening, and detection.
+
+<br>
 
 **lab**
 
-| | |
-|---|---|
-| host | Fedora 43 · KVM/QEMU · virt-manager |
-| dc01 | Windows Server 2022 · AD DS · DNS · GPO |
-| client01 | Windows 10 Enterprise · domain joined |
-| kali | Kali Linux · penetration testing |
-| rhel9 | RHEL 9 · sysadmin practice |
-| wazuh | Wazuh SIEM · log ingestion · alerting |
-| pfsense | pfSense · Suricata IDS/IPS |
+| node | role |
+|------|------|
+| \`host\` | fedora 43 · kvm/qemu · virt-manager |
+| \`dc01\` | windows server 2022 · ad ds · dns · gpo |
+| \`client01\` | windows 10 enterprise · domain joined |
+| \`kali\` | kali linux · penetration testing |
+| \`rhel9\` | rhel 9 · sysadmin practice |
+| \`wazuh\` | wazuh siem · log ingestion · alerting |
+| \`pfsense\` | pfsense · suricata ids/ips |
 
-&nbsp;
+<br>
 
 **projects**
 
-| | |
-|---|---|
-| [windows-ad-homelab](https://github.com/JeycobSec/windows-ad-homelab) | enterprise Active Directory architecture and security controls |
-| c-port-scanner | multithreaded TCP enumeration in C++ |
-| linux-infra-labs | system hardening and automation notes |
+| repo | description |
+|------|-------------|
+| [windows-ad-homelab](https://github.com/JeycobSec/windows-ad-homelab) | enterprise active directory architecture and security controls |
+| [c-port-scanner](https://github.com/JeycobSec/c-port-scanner) | tcp sweep utility · multithreaded · c |
 
-&nbsp;
-
-**certifications**
-
-![Security+](https://img.shields.io/badge/Security+-FF0000?style=flat-square&logo=comptia&logoColor=white)
-![Network+](https://img.shields.io/badge/Network+-007ACC?style=flat-square&logo=comptia&logoColor=white)
-![AZ-900](https://img.shields.io/badge/AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Splunk Core](https://img.shields.io/badge/Splunk_Core-000000?style=flat-square&logo=splunk&logoColor=white)
-
-&nbsp;
-
-<img src="https://raw.githubusercontent.com/JeycobSec/JeycobSec/output/github-contribution-grid-snake-dark.svg" width="100%">
-
-&nbsp;
+<br>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeycobc/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JeycobSec)
-
-*quiet systems · clean logs · steady signal*
-
+<sub>linux · active directory · kvm · qemu · blue team</sub>
 </div>
