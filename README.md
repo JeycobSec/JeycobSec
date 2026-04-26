@@ -1,15 +1,8 @@
 <div align="center">
 
-\`\`\`
- ~/lab
- ─────────────────────────────────────
-  jeycob
-  systems · infrastructure · blue team
- ─────────────────────────────────────
-\`\`\`
+![banner](banner.svg)
 
 </div>
-
 <!-- the observer. always watching. -->
 
 <br>
